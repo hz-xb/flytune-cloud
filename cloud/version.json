@@ -2,12 +2,12 @@
   "versionCode": 22,
   "versionName": "2.2.3",
   "apkUrls": [
-    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-2.2.3.apk",
-    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.3.apk",
-    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-2.2.3.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.3.apk"
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-2.2.3-f52a56391e.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.3-f52a56391e.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-2.2.3-f52a56391e.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.3-f52a56391e.apk"
   ],
-  "sha256": "502b94ca9a1ed442b4b5f9634f05a49a61375b4865c6bb60db0253dc51b3ed3c",
+  "sha256": "f52a56391e569d910792e6f33290fe3debd1560d1e2b7945c0279193182ffd97",
   "sizeBytes": 6248948,
   "notes": "2.2.3：必须联网校验，断网或云端清单不可达时直接锁定蓝牙扫描、连接、调参与高级解锁；更新下载新增实时进度条。",
   "forceUpdate": false,
