@@ -7,7 +7,7 @@
     "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-2.2.3.apk",
     "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.3.apk"
   ],
-  "sha256": "72536c9f746069086eeb76e000d22e276f0e8e876062b7c5ae91eb8df73b147c",
+  "sha256": "502b94ca9a1ed442b4b5f9634f05a49a61375b4865c6bb60db0253dc51b3ed3c",
   "sizeBytes": 6248948,
   "notes": "2.2.3：必须联网校验，断网或云端清单不可达时直接锁定蓝牙扫描、连接、调参与高级解锁；更新下载新增实时进度条。",
   "forceUpdate": false,
