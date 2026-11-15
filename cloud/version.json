@@ -1,0 +1,15 @@
+{
+  "versionCode": 19,
+  "versionName": "2.2.0",
+  "apkUrls": [
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-2.2.0.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.0.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-2.2.0.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.0.apk"
+  ],
+  "sha256": "ea776c6854672c60eea3f4104ac238138793db75e5b796e1785d8fe92c0b9d6a",
+  "sizeBytes": 6248928,
+  "notes": "2.2.0：新增安装包签名与云端完整性校验、云端更新、密码授权解锁风扇转速与 245 超频档。超频档位加入橙色警示，245 更醒目。",
+  "forceUpdate": false,
+  "publishedAt": "2026-11-16T04:50:00+08:00"
+}
