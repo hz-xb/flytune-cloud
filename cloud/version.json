@@ -1,15 +1,15 @@
 {
-  "versionCode": 22,
-  "versionName": "2.2.3",
+  "versionCode": 23,
+  "versionName": "2.2.4",
   "apkUrls": [
-    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-2.2.3-f52a56391e.apk",
-    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.3-f52a56391e.apk",
-    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-2.2.3-f52a56391e.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.3-f52a56391e.apk"
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-2.2.4-07c6eb71b9.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.4-07c6eb71b9.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-2.2.4-07c6eb71b9.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.4-07c6eb71b9.apk"
   ],
-  "sha256": "f52a56391e569d910792e6f33290fe3debd1560d1e2b7945c0279193182ffd97",
+  "sha256": "07c6eb71b933e908100d8bf2ac4161f83b37ed047c353420f89ecd5f6db5c8b6",
   "sizeBytes": 6248948,
-  "notes": "2.2.3：必须联网校验，断网或云端清单不可达时直接锁定蓝牙扫描、连接、调参与高级解锁；更新下载新增实时进度条。",
+  "notes": "2.2.4：软件内新增官网入口；设置页显示云端卡密到期时间；云端地址拆分拼接，不再保留完整后台 URL 列表；官网版本号与 APK 下载地址同步云端。",
   "forceUpdate": false,
-  "publishedAt": "2026-11-16T05:30:00+08:00"
+  "publishedAt": "2026-11-16T06:05:00+08:00"
 }
