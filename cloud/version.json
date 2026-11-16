@@ -1,15 +1,15 @@
 {
-  "versionCode": 24,
-  "versionName": "2.2.5",
+  "versionCode": 25,
+  "versionName": "2.2.6",
   "apkUrls": [
-    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-2.2.5-23b5fab116.apk",
-    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.5-23b5fab116.apk",
-    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-2.2.5-23b5fab116.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.5-23b5fab116.apk"
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-2.2.6-9322395544.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.6-9322395544.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-2.2.6-9322395544.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.6-9322395544.apk"
   ],
-  "sha256": "23b5fab116782ba1d0a4f4cb21348b7447156944109a8e35c36505b6ed77c302",
+  "sha256": "9322395544411aa329639739f96aa82bb3dbac90b9371179c61f82607ddf864e",
   "sizeBytes": 6248948,
-  "notes": "2.2.5：未解锁不再提前显示卡密到期；后台换卡或停用后旧授权立即失效；新增与官网同风格的云端卡密控制台，可实时修改卡密、启用状态和到期时间；官网版本号与下载继续读云端。",
+  "notes": "2.2.6：适配 B9X / B8X / B7 / B7X / B6X / B6 / B5X / B5 / 蜂翼 2 Pro 九款机型；B9X 风扇上限改为设备回读的 5700，175 不再误标超频；B7X/B7 保留 245 实验档，B6/B5 系列按 7000 RPM 保守档处理；无 OC 余量机型统一显示 OC 未开放。",
   "forceUpdate": false,
-  "publishedAt": "2026-11-16T14:25:00+08:00"
+  "publishedAt": "2026-11-17T00:30:25+08:00"
 }
