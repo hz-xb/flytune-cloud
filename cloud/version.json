@@ -1,15 +1,15 @@
 {
-  "versionCode": 23,
-  "versionName": "2.2.4",
+  "versionCode": 24,
+  "versionName": "2.2.5",
   "apkUrls": [
-    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-2.2.4-07c6eb71b9.apk",
-    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.4-07c6eb71b9.apk",
-    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-2.2.4-07c6eb71b9.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.4-07c6eb71b9.apk"
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-2.2.5-23b5fab116.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.5-23b5fab116.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-2.2.5-23b5fab116.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.5-23b5fab116.apk"
   ],
-  "sha256": "07c6eb71b933e908100d8bf2ac4161f83b37ed047c353420f89ecd5f6db5c8b6",
+  "sha256": "23b5fab116782ba1d0a4f4cb21348b7447156944109a8e35c36505b6ed77c302",
   "sizeBytes": 6248948,
-  "notes": "2.2.4：软件内新增官网入口；设置页显示云端卡密到期时间；云端地址拆分拼接，不再保留完整后台 URL 列表；官网版本号与 APK 下载地址同步云端。",
+  "notes": "2.2.5：未解锁不再提前显示卡密到期；后台换卡或停用后旧授权立即失效；新增与官网同风格的云端卡密控制台，可实时修改卡密、启用状态和到期时间；官网版本号与下载继续读云端。",
   "forceUpdate": false,
-  "publishedAt": "2026-11-16T06:05:00+08:00"
+  "publishedAt": "2026-11-16T14:25:00+08:00"
 }
