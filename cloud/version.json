@@ -1,15 +1,15 @@
 {
-  "versionCode": 25,
-  "versionName": "2.2.6",
+  "versionCode": 26,
+  "versionName": "3.0.0",
   "apkUrls": [
-    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-2.2.6-b7ce3b09e0.apk",
-    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.6-b7ce3b09e0.apk",
-    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-2.2.6-b7ce3b09e0.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-2.2.6-b7ce3b09e0.apk"
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.0-6cd12512.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.0-6cd12512.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.0-6cd12512.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.0-6cd12512.apk"
   ],
-  "sha256": "b7ce3b09e00174105160982f000f98cade9c7a0b5457da6f5aad2fc5e962448b",
-  "sizeBytes": 6248948,
-  "notes": "2.2.6：适配 B9X / B8X / B7 / B7X / B6X / B6 / B5X / B5 / 蜂翼 2 Pro 九款机型；B9X 风扇上限改为设备回读的 5700，175 不再误标超频；B7X/B7 保留 245 实验档，B6/B5 系列按 7000 RPM 保守档处理；无 OC 余量机型统一显示 OC 未开放。",
+  "sha256": "6cd125126a1ca30eeead85d0ddc9a8a956b740f6f570726641ecc82f3bffc1ff",
+  "sizeBytes": 6861332,
+  "notes": "3.0.0 液态玻璃重构：底部改为可拖动的原生 LiquidGlassView 浮动 Dock，松手回弹并吸附到左/中/右停靠位；全站卡片、标题栏和控件换成矿物晨雾玻璃；保留 BLE 全部机型适配、云端校验、OTA、授权与灯效功能。",
   "forceUpdate": false,
-  "publishedAt": "2026-11-17T00:36:00+08:00"
+  "publishedAt": "2026-11-18T19:45:00+08:00"
 }
