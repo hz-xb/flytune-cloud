@@ -1,15 +1,15 @@
 {
-  "versionCode": 33,
-  "versionName": "3.0.7",
+  "versionCode": 34,
+  "versionName": "3.0.8",
   "apkUrls": [
-    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.7-9ee70ba5.apk",
-    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.7-9ee70ba5.apk",
-    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.7-9ee70ba5.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.7-9ee70ba5.apk"
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.8-018c4097.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.8-018c4097.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.8-018c4097.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.8-018c4097.apk"
   ],
-  "sha256": "9ee70ba5a0f7867050bb68a1be5345650d28b3ea60b19e9d7cf2e9d9e3dfc598",
+  "sha256": "018c4097fbc3110295b13a382c6beadb1336ab8b69862dba4ff9617e8c4fc99c",
   "sizeBytes": 6863544,
-  "notes": "3.0.7 顶栏把状态栏并入同一块玻璃，并统一成薄荷白；底栏改用薄荷染色玻璃与同色玻璃滴，底部背景补薄荷光，解决导航键与内容冷暖不搭。",
+  "notes": "3.0.8 状态栏恢复为独立系统层，顶栏玻璃卡从其下方开始；底栏改白色高透 REGULAR 玻璃，选中滴也改为透明高亮，不再压暗。",
   "forceUpdate": false,
-  "publishedAt": "2026-11-18T21:45:00+08:00"
+  "publishedAt": "2026-11-18T22:00:00+08:00"
 }
