@@ -1,15 +1,15 @@
 {
-  "versionCode": 28,
-  "versionName": "3.0.2",
+  "versionCode": 29,
+  "versionName": "3.0.3",
   "apkUrls": [
-    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.2-0d912ecf.apk",
-    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.2-0d912ecf.apk",
-    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.2-0d912ecf.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.2-0d912ecf.apk"
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.3-0ef2040f.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.3-0ef2040f.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.3-0ef2040f.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.3-0ef2040f.apk"
   ],
-  "sha256": "0d912ecf5a12aa0e64241472bca147f1271d786224a9b816d3d906abd43d778f",
-  "sizeBytes": 6861336,
-  "notes": "3.0.2 修复底部导航：恢复为固定在屏幕底部的玻璃导航栏，取消整条 Dock 拖动，避免漂到内容区；同时保留 3.0.1 的背景采样闪退修复。",
+  "sha256": "0ef2040f68819361df6c05b0e50358bff5d8848e6f267fdcf9a21f80200c01e3",
+  "sizeBytes": 6863544,
+  "notes": "3.0.3 底栏直接换用 liquidglass 模块自带的 LiquidGlassTabBar：固定底部整条玻璃，只允许玻璃滴点击/拖拽吸附，不再整条 Dock 漂移；保留背景采样闪退修复。",
   "forceUpdate": false,
-  "publishedAt": "2026-11-18T20:15:00+08:00"
+  "publishedAt": "2026-11-18T20:35:00+08:00"
 }
