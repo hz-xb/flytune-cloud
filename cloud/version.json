@@ -1,15 +1,15 @@
 {
-  "versionCode": 30,
-  "versionName": "3.0.4",
+  "versionCode": 31,
+  "versionName": "3.0.5",
   "apkUrls": [
-    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.4-1d5028a1.apk",
-    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.4-1d5028a1.apk",
-    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.4-1d5028a1.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.4-1d5028a1.apk"
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.5-739d8d6f.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.5-739d8d6f.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.5-739d8d6f.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.5-739d8d6f.apk"
   ],
-  "sha256": "1d5028a1bd07a7848cbeb03f0dbebb8e48f4701e9113e7934872bd9e3974a746",
-  "sizeBytes": 6863540,
-  "notes": "3.0.4 收窄顶部与底部两条玻璃栏：左右留白统一，顶栏不再贴满屏宽；底栏高度略降，保持同一视觉宽度。",
+  "sha256": "739d8d6fab44ae4668c3d033567fa4a98b6f15cc0bea665dfa0faccc1f6f23bc",
+  "sizeBytes": 6863544,
+  "notes": "3.0.5 修正底栏：选中玻璃滴改为与标签行同高，不再顶对齐；未选中图标与文字强制按亮背景使用深色，解决浅色底上白字几乎看不见。",
   "forceUpdate": false,
-  "publishedAt": "2026-11-18T20:55:00+08:00"
+  "publishedAt": "2026-11-18T21:10:00+08:00"
 }
