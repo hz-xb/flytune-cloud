@@ -1,15 +1,15 @@
 {
-  "versionCode": 29,
-  "versionName": "3.0.3",
+  "versionCode": 30,
+  "versionName": "3.0.4",
   "apkUrls": [
-    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.3-0ef2040f.apk",
-    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.3-0ef2040f.apk",
-    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.3-0ef2040f.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.3-0ef2040f.apk"
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.4-1d5028a1.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.4-1d5028a1.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.4-1d5028a1.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.4-1d5028a1.apk"
   ],
-  "sha256": "0ef2040f68819361df6c05b0e50358bff5d8848e6f267fdcf9a21f80200c01e3",
-  "sizeBytes": 6863544,
-  "notes": "3.0.3 底栏直接换用 liquidglass 模块自带的 LiquidGlassTabBar：固定底部整条玻璃，只允许玻璃滴点击/拖拽吸附，不再整条 Dock 漂移；保留背景采样闪退修复。",
+  "sha256": "1d5028a1bd07a7848cbeb03f0dbebb8e48f4701e9113e7934872bd9e3974a746",
+  "sizeBytes": 6863540,
+  "notes": "3.0.4 收窄顶部与底部两条玻璃栏：左右留白统一，顶栏不再贴满屏宽；底栏高度略降，保持同一视觉宽度。",
   "forceUpdate": false,
-  "publishedAt": "2026-11-18T20:35:00+08:00"
+  "publishedAt": "2026-11-18T20:55:00+08:00"
 }
