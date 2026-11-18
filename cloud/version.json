@@ -2,14 +2,14 @@
   "versionCode": 26,
   "versionName": "3.0.0",
   "apkUrls": [
-    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.0-6cd12512.apk",
-    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.0-6cd12512.apk",
-    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.0-6cd12512.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.0-6cd12512.apk"
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.0-c7ea17bb.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.0-c7ea17bb.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.0-c7ea17bb.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.0-c7ea17bb.apk"
   ],
-  "sha256": "6cd125126a1ca30eeead85d0ddc9a8a956b740f6f570726641ecc82f3bffc1ff",
+  "sha256": "c7ea17bb0912ec9e957f0f1904f88261ebcce5167ad2aeb8f228a10e68e9254b",
   "sizeBytes": 6861332,
   "notes": "3.0.0 液态玻璃重构：底部改为可拖动的原生 LiquidGlassView 浮动 Dock，松手回弹并吸附到左/中/右停靠位；全站卡片、标题栏和控件换成矿物晨雾玻璃；保留 BLE 全部机型适配、云端校验、OTA、授权与灯效功能。",
   "forceUpdate": false,
-  "publishedAt": "2026-11-18T19:45:00+08:00"
+  "publishedAt": "2026-11-18T19:55:00+08:00"
 }
