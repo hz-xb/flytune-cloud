@@ -1,15 +1,15 @@
 {
-  "versionCode": 27,
-  "versionName": "3.0.1",
+  "versionCode": 28,
+  "versionName": "3.0.2",
   "apkUrls": [
-    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.1-62768d4b.apk",
-    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.1-62768d4b.apk",
-    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.1-62768d4b.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.1-62768d4b.apk"
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.2-0d912ecf.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.2-0d912ecf.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.2-0d912ecf.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.2-0d912ecf.apk"
   ],
-  "sha256": "62768d4b1c8c75600091a2971051e5cdbfe00b8636449c121334d034edf0f4d1",
+  "sha256": "0d912ecf5a12aa0e64241472bca147f1271d786224a9b816d3d906abd43d778f",
   "sizeBytes": 6861336,
-  "notes": "3.0.1 修复启动闪退：BackdropCapture 不再采样包含玻璃自身的 Compose 根视图，改由独立原生背景层提供采样源；同时保住可拖动 Dock 与液态玻璃。",
+  "notes": "3.0.2 修复底部导航：恢复为固定在屏幕底部的玻璃导航栏，取消整条 Dock 拖动，避免漂到内容区；同时保留 3.0.1 的背景采样闪退修复。",
   "forceUpdate": false,
-  "publishedAt": "2026-11-18T20:05:00+08:00"
+  "publishedAt": "2026-11-18T20:15:00+08:00"
 }

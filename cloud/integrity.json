@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "sha256": "62768d4b1c8c75600091a2971051e5cdbfe00b8636449c121334d034edf0f4d1",
+  "versionCode": 28,
+  "sha256": "0d912ecf5a12aa0e64241472bca147f1271d786224a9b816d3d906abd43d778f",
   "signatureSha256": "a46589482910357da04512b7e86e7ba1c9116febfb75dff58e52981fa4d1dd0f",
-  "minAllowedVersionCode": 27,
+  "minAllowedVersionCode": 28,
   "onlineRequired": true,
   "blocked": [
     17,
@@ -14,7 +14,8 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
-  "publishedAt": "2026-11-18T20:05:00+08:00"
+  "publishedAt": "2026-11-18T20:15:00+08:00"
 }
