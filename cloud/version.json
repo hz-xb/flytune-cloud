@@ -1,15 +1,15 @@
 {
-  "versionCode": 32,
-  "versionName": "3.0.6",
+  "versionCode": 33,
+  "versionName": "3.0.7",
   "apkUrls": [
-    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.6-29f3134c.apk",
-    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.6-29f3134c.apk",
-    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.6-29f3134c.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.6-29f3134c.apk"
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.7-9ee70ba5.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.7-9ee70ba5.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.7-9ee70ba5.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.7-9ee70ba5.apk"
   ],
-  "sha256": "29f3134c15614fc944994fb27b0a195aade8748f0fa82c42086d095a056b2450",
+  "sha256": "9ee70ba5a0f7867050bb68a1be5345650d28b3ea60b19e9d7cf2e9d9e3dfc598",
   "sizeBytes": 6863544,
-  "notes": "3.0.6 底栏移到 Activity 装饰视图，作为内容之上的独立悬浮层，backdrop 采样 content 本身；玻璃现在能透出并折射下方卡片，不再是与内容隔离的另一块面。",
+  "notes": "3.0.7 顶栏把状态栏并入同一块玻璃，并统一成薄荷白；底栏改用薄荷染色玻璃与同色玻璃滴，底部背景补薄荷光，解决导航键与内容冷暖不搭。",
   "forceUpdate": false,
-  "publishedAt": "2026-11-18T21:30:00+08:00"
+  "publishedAt": "2026-11-18T21:45:00+08:00"
 }
