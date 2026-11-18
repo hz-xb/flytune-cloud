@@ -1,15 +1,15 @@
 {
-  "versionCode": 31,
-  "versionName": "3.0.5",
+  "versionCode": 32,
+  "versionName": "3.0.6",
   "apkUrls": [
-    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.5-739d8d6f.apk",
-    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.5-739d8d6f.apk",
-    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.5-739d8d6f.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.5-739d8d6f.apk"
+    "https://gitee.com/ebinjfjfjg/flytune-cloud/raw/master/apk/flytune-3.0.6-29f3134c.apk",
+    "https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.6-29f3134c.apk",
+    "https://cdn.jsdelivr.net/gh/hz-xb/flytune-cloud@main/apk/flytune-3.0.6-29f3134c.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/hz-xb/flytune-cloud/main/apk/flytune-3.0.6-29f3134c.apk"
   ],
-  "sha256": "739d8d6fab44ae4668c3d033567fa4a98b6f15cc0bea665dfa0faccc1f6f23bc",
+  "sha256": "29f3134c15614fc944994fb27b0a195aade8748f0fa82c42086d095a056b2450",
   "sizeBytes": 6863544,
-  "notes": "3.0.5 修正底栏：选中玻璃滴改为与标签行同高，不再顶对齐；未选中图标与文字强制按亮背景使用深色，解决浅色底上白字几乎看不见。",
+  "notes": "3.0.6 底栏移到 Activity 装饰视图，作为内容之上的独立悬浮层，backdrop 采样 content 本身；玻璃现在能透出并折射下方卡片，不再是与内容隔离的另一块面。",
   "forceUpdate": false,
-  "publishedAt": "2026-11-18T21:10:00+08:00"
+  "publishedAt": "2026-11-18T21:30:00+08:00"
 }
